@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Project written with Next.js + React.js + Tailwind.css
+
+I was learning on this project a lot, you can just start it up on your own and take a look! 🙂
+
+
 
 ## Getting Started
 
